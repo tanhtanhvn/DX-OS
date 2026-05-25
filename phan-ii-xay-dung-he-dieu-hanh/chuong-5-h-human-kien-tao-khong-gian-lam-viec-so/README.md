@@ -1,0 +1,3 @@
+# CHƯƠNG 5: \[H] HUMAN – KIẾN TẠO KHÔNG GIAN LÀM VIỆC SỐ
+
+**Mục tiêu của chương:** Tập trung vào tiêu chuẩn hóa hạ tầng làm việc số cấp tổ chức tại phân tầng Người dùng \[H]. Chương này hướng dẫn chuyển hóa các nguyên lý quản trị tri thức (P.A.R.A, C.O.D.E) thành cấu trúc lưu trữ vật lý trên hệ sinh thái nền tảng GWS nhằm kiến tạo một hạ tầng dữ liệu tĩnh nhất quán; triển khai cơ chế quản trị định danh tập trung, thiết lập phân quyền truy cập (RBAC) và quy hoạch luồng truyền tải dữ liệu qua Cổng thông tin nội bộ (Intranet). Nội dung chương cung cấp bộ giao thức kỹ thuật phục vụ hoạch định kiến trúc tích hợp, đảm bảo khả năng mở rộng hệ thống và duy trì tính toàn vẹn dữ liệu khi tổ chức tiến hành đấu nối thêm các nền tảng ngoại vi chuyên sâu.
