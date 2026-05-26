@@ -1,0 +1,3 @@
+# CHƯƠNG 8: \[I] INTELLIGENCE – TIẾN TỚI DOANH NGHIỆP AI-NATIVE
+
+**Mục tiêu của chương:** Dịch chuyển Không gian \[I] từ mức độ "Trợ lý tác chiến" (AI-Assisted) sang đích đến "Hệ sinh thái tự hành" (AI-Native). Chương này phác họa lộ trình làm chủ GenAI cơ bản và tầm nhìn vượt ngưỡng thông qua việc xây dựng "Bộ não lai" (Hybrid Engine) có khả năng lập luận trên tri thức đa nguồn và tự động hóa ra quyết định. Tại Không gian \[I], Trí tuệ nhân tạo không phải là một giao diện Chatbot để hỏi đáp. Nó là tầng kiến trúc cao nhất, nơi hấp thụ toàn bộ tri thức tĩnh từ Vùng Tài nguyên \[R], vận hành trên các quy trình chuẩn hóa của Không gian \[P], và tiêu thụ khối lượng dữ liệu khổng lồ từ Không gian \[D] để tạo ra một "Bộ não số" thực thụ cho doanh nghiệp.
