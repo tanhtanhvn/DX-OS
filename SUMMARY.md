@@ -3,7 +3,7 @@
 * [GIỚI THIỆU CHUNG](README.md)
 * [LỜI MỞ ĐẦU](loi-mo-dau.md)
 * [VỀ TÀI LIỆU](ve-tai-lieu.md)
-* [BỘ CÔNG CỤ DX-LAB](bo-cong-cu-dx-lab.md)
+* [DX-LAB SANDBOX](dx-lab-sandbox.md)
 
 ## PHẦN I - TƯ DUY CHIẾN LƯỢC
 
