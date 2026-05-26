@@ -61,3 +61,31 @@
   * [8.4. Vượt ngưỡng: Bản đồ Công nghệ Học máy và Trí tuệ nhân tạo](phan-ii-xay-dung-he-dieu-hanh/chuong-8-i-intelligence-tien-toi-doanh-nghiep-ai-native/8.4.-vuot-nguong-ban-do-cong-nghe-hoc-may-va-tri-tue-nhan-tao.md)
   * [8.5. Kiến trúc Doanh nghiệp AI-Native và Kỷ nguyên Tự tối ưu](phan-ii-xay-dung-he-dieu-hanh/chuong-8-i-intelligence-tien-toi-doanh-nghiep-ai-native/8.5.-kien-truc-doanh-nghiep-ai-native-va-ky-nguyen-tu-toi-uu.md)
   * [8.6. Thực hành DX-Lab: Kích hoạt Trợ lý Trí tuệ Nhân tạo Cơ bản](phan-ii-xay-dung-he-dieu-hanh/chuong-8-i-intelligence-tien-toi-doanh-nghiep-ai-native/8.6.-thuc-hanh-dx-lab-kich-hoat-tro-ly-tri-tue-nhan-tao-co-ban.md)
+
+## PHẦN III - TRIỂN KHAI VẬN HÀNH
+
+* [CHƯƠNG 9: CHIẾN LƯỢC TRIỂN KHAI THỰC TẾ VÀ QUẢN TRỊ SỰ THAY ĐỔI](phan-iii-trien-khai-van-hanh/chuong-9-chien-luoc-trien-khai-thuc-te-va-quan-tri-su-thay-doi/README.md)
+  * [9.1. Phân tích nguyên nhân thất bại: Rào cản định cỡ mô hình trong Chuyển đổi số](phan-iii-trien-khai-van-hanh/chuong-9-chien-luoc-trien-khai-thuc-te-va-quan-tri-su-thay-doi/9.1.-phan-tich-nguyen-nhan-that-bai-rao-can-dinh-co-mo-hinh-trong-chuyen-doi-so.md)
+  * [9.2. Chiến lược triển khai hệ thống: Tập trung vào quy trình trọng yếu](phan-iii-trien-khai-van-hanh/chuong-9-chien-luoc-trien-khai-thuc-te-va-quan-tri-su-thay-doi/9.2.-chien-luoc-trien-khai-he-thong-tap-trung-vao-quy-trinh-trong-yeu.md)
+  * [9.3. Phương pháp luận xử lý sự phản kháng kỹ thuật số](phan-iii-trien-khai-van-hanh/chuong-9-chien-luoc-trien-khai-thuc-te-va-quan-tri-su-thay-doi/9.3.-phuong-phap-luan-xu-ly-su-phan-khang-ky-thuat-so.md)
+  * [9.4. Thể chế hóa Hệ điều hành số trong tổ chức](phan-iii-trien-khai-van-hanh/chuong-9-chien-luoc-trien-khai-thuc-te-va-quan-tri-su-thay-doi/9.4.-the-che-hoa-he-dieu-hanh-so-trong-to-chuc.md)
+  * [9.5. Thực hành Không gian DX-Lab: Kịch bản Chuyển đổi số Cấp tốc](phan-iii-trien-khai-van-hanh/chuong-9-chien-luoc-trien-khai-thuc-te-va-quan-tri-su-thay-doi/9.5.-thuc-hanh-khong-gian-dx-lab-kich-ban-chuyen-doi-so-cap-toc.md)
+* [CHƯƠNG 10: QUẢN TRỊ AN TOÀN THÔNG TIN VÀ BẢO VỆ DỮ LIỆU CÁ NHÂN](phan-iii-trien-khai-van-hanh/chuong-10-quan-tri-an-toan-thong-tin-va-bao-ve-du-lieu-ca-nhan/README.md)
+  * [10.1. Nền tảng kiến trúc An toàn thông tin và Khả năng phục hồi số](phan-iii-trien-khai-van-hanh/chuong-10-quan-tri-an-toan-thong-tin-va-bao-ve-du-lieu-ca-nhan/10.1.-nen-tang-kien-truc-an-toan-thong-tin-va-kha-nang-phuc-hoi-so.md)
+  * [10.2. Khung phân loại tài sản số và Quản trị rủi ro thông tin](phan-iii-trien-khai-van-hanh/chuong-10-quan-tri-an-toan-thong-tin-va-bao-ve-du-lieu-ca-nhan/10.2.-khung-phan-loai-tai-san-so-va-quan-tri-rui-ro-thong-tin.md)
+  * [10.3. Kỷ luật tuân thủ Quyền riêng tư và Luật Bảo vệ dữ liệu cá nhân](phan-iii-trien-khai-van-hanh/chuong-10-quan-tri-an-toan-thong-tin-va-bao-ve-du-lieu-ca-nhan/10.3.-ky-luat-tuan-thu-quyen-rieng-tu-va-luat-bao-ve-du-lieu-ca-nhan.md)
+  * [10.4. Kiến trúc bảo mật đa tầng: Ranh giới giữa Nhân sự và Công nghệ](phan-iii-trien-khai-van-hanh/chuong-10-quan-tri-an-toan-thong-tin-va-bao-ve-du-lieu-ca-nhan/10.4.-kien-truc-bao-mat-da-tang-ranh-gioi-giua-nhan-su-va-cong-nghe.md)
+  * [10.5. Sổ tay ứng phó sự cố và Thu hồi đặc quyền truy cập](phan-iii-trien-khai-van-hanh/chuong-10-quan-tri-an-toan-thong-tin-va-bao-ve-du-lieu-ca-nhan/10.5.-so-tay-ung-pho-su-co-va-thu-hoi-dac-quyen-truy-cap.md)
+  * [10.6. Tầm nhìn vượt ngưỡng: Quản trị an ninh thông tin cấp Doanh nghiệp lớn](phan-iii-trien-khai-van-hanh/chuong-10-quan-tri-an-toan-thong-tin-va-bao-ve-du-lieu-ca-nhan/10.6.-tam-nhin-vuot-nguong-quan-tri-an-ninh-thong-tin-cap-doanh-nghiep-lon.md)
+  * [10.7. Thực hành Không gian DX-Lab: Thiết lập rào chắn An toàn và Pháp lý](phan-iii-trien-khai-van-hanh/chuong-10-quan-tri-an-toan-thong-tin-va-bao-ve-du-lieu-ca-nhan/10.7.-thuc-hanh-khong-gian-dx-lab-thiet-lap-rao-chan-an-toan-va-phap-ly.md)
+* [CHƯƠNG 11: TỐI ƯU HÓA TỶ SUẤT HOÀN VỐN, QUẢN TRỊ BẢO TRÌ VÀ CHIẾN LƯỢC MỞ RỘNG QUY MÔ](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/README.md)
+  * [11.1. Định vị Năng lực Trưởng thành số và Nghịch lý Ngân sách Công nghệ](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/11.1.-dinh-vi-nang-luc-truong-thanh-so-va-nghich-ly-ngan-sach-cong-nghe.md)
+  * [11.2. Phân tích Tỷ suất Hoàn vốn (ROI) dựa trên Ma trận Kiến trúc HPDI](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/11.2.-phan-tich-ty-suat-hoan-von-roi-dua-tren-ma-tran-kien-truc-hpdi.md)
+  * [11.3. Khung Quản trị và Bảo trì Hệ thống: Phương pháp luận "5S Số"](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/11.3.-khung-quan-tri-va-bao-tri-he-thong-phuong-phap-luan-5s-so.md)
+  * [11.4. Bản chất của chiến lược Mở rộng quy mô: Bài toán Tải trọng và Hiệu năng](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/11.4.-ban-chat-cua-chien-luoc-mo-rong-quy-mo-bai-toan-tai-trong-va-hieu-nang.md)
+  * [11.5. Thực hành Không gian DX-Lab: Kiểm toán hệ thống và Hoạch định lộ trình](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/11.5.-thuc-hanh-khong-gian-dx-lab-kiem-toan-he-thong-va-hoach-dinh-lo-trinh.md)
+
+***
+
+* [LỜI KẾT](loi-ket.md)
+* [OPENDIGITRANSFORM](https://opendigitransform.gitbook.io/home)
