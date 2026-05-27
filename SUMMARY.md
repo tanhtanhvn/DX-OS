@@ -1,9 +1,9 @@
 # Table of contents
 
-* [GIỚI THIỆU CHUNG](README.md)
+* [GIỚI THIỆU](README.md)
 * [LỜI MỞ ĐẦU](loi-mo-dau.md)
 * [VỀ TÀI LIỆU](ve-tai-lieu.md)
-* [DX-LAB SANDBOX](dx-lab-sandbox.md)
+* [HỘP CÁT DX-LAB](hop-cat-dx-lab.md)
 
 ## PHẦN I - TƯ DUY CHIẾN LƯỢC
 
