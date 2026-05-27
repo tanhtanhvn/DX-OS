@@ -1,6 +1,4 @@
-# LỜI KẾT
-
-#### CHUYỂN ĐỔI SỐ LÀ MỘT HÀNH TRÌNH, KHÔNG PHẢI ĐÍCH ĐẾN
+# LỜI KẾT: CHUYỂN ĐỔI SỐ LÀ MỘT HÀNH TRÌNH, KHÔNG PHẢI ĐÍCH ĐẾN
 
 Chúng ta đã cùng nhau đi đến những trang cuối cùng của giáo trình thực chiến này. Từ những khái niệm trừu tượng ban đầu về chuyển đổi số, bạn đã tự tay đi qua 11 chương để lột xác toàn diện một tổ chức: từ việc thiết lập kỷ luật Không gian làm việc \[H], xây dựng đường ống quy trình \[P], gom tụ tài sản dữ liệu phẳng \[D], cho đến việc thổi hồn bằng Trí tuệ nhân tạo \[I] và bọc lót bằng phòng tuyến an toàn thông tin tối tân.
 

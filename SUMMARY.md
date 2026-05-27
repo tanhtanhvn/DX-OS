@@ -4,6 +4,9 @@
 * [LỜI MỞ ĐẦU](loi-mo-dau.md)
 * [VỀ TÀI LIỆU](ve-tai-lieu.md)
 * [HỘP CÁT DX-LAB](hop-cat-dx-lab.md)
+* [CHIA SẺ TRI THỨC MỞ](chia-se-tri-thuc-mo/README.md)
+  * [Tài nguyên Tham khảo](chia-se-tri-thuc-mo/tai-nguyen-tham-khao.md)
+  * [Câu hỏi Chuyên sâu (FAQ)](chia-se-tri-thuc-mo/cau-hoi-chuyen-sau-faq.md)
 
 ## PHẦN I - TƯ DUY CHIẾN LƯỢC
 
@@ -86,8 +89,9 @@
   * [11.3. Khung Quản trị và Bảo trì Hệ thống: Phương pháp luận "5S Số"](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/11.3.-khung-quan-tri-va-bao-tri-he-thong-phuong-phap-luan-5s-so.md)
   * [11.4. Bản chất của chiến lược Mở rộng quy mô: Bài toán Tải trọng và Hiệu năng](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/11.4.-ban-chat-cua-chien-luoc-mo-rong-quy-mo-bai-toan-tai-trong-va-hieu-nang.md)
   * [11.5. Thực hành Không gian DX-Lab: Kiểm toán hệ thống và Hoạch định lộ trình](phan-iii-trien-khai-van-hanh/chuong-11-toi-uu-hoa-ty-suat-hoan-von-quan-tri-bao-tri-va-chien-luoc-mo-rong-quy-mo/11.5.-thuc-hanh-khong-gian-dx-lab-kiem-toan-he-thong-va-hoach-dinh-lo-trinh.md)
+* [LỜI KẾT: CHUYỂN ĐỔI SỐ LÀ MỘT HÀNH TRÌNH, KHÔNG PHẢI ĐÍCH ĐẾN](phan-iii-trien-khai-van-hanh/loi-ket-chuyen-doi-so-la-mot-hanh-trinh-khong-phai-dich-den.md)
 
 ***
 
-* [LỜI KẾT](loi-ket.md)
 * [OPENDIGITRANSFORM](https://opendigitransform.gitbook.io/home)
+* [CÔNG TY FDS](https://fds.vn/)
