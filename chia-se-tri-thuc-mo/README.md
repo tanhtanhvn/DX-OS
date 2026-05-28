@@ -4,9 +4,11 @@
 
 > Thông điệp cốt lõi: _Giáo trình DX-OS cung cấp "Hệ điều hành lõi". Vietnam Open DX-Hub là hệ sinh thái để cộng đồng Doanh nghiệp và Chính phủ Việt Nam cùng nhau vận hành, chia sẻ thực tiễn và không ngừng làm giàu hệ điều hành đó._
 
-#### 1. Hệ sinh thái Tri thức mở
+#### 1. Hệ sinh thái Tri thức mở định hình theo Cộng đồng Thực hành
 
-Vietnam Open DX-Hub là một không gian tri thức mở, nơi hiện thực hóa Mô hình liên kết 3 Nhà: Nhà nước - Nhà trường - Doanh nghiệp, theo tinh thần của Nghị quyết 57/NQ-TW về đột phá khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số (tham khảo bài viết về [Giải pháp đột phá nhân sự từ mô hình liên kết đào tạo thực hành](https://opendigitransform.gitbook.io/home/bai-viet-thao-luan/ung-dung-chuyen-doi-so/chuyen-doi-so-doanh-nghiep-sme-giai-phap-dot-pha-nhan-luc-tu-mo-hinh-lien-ket-dao-tao-thuc-hanh)).
+Định vị mình là một Cộng đồng Thực hành (Community of Practice - CoP) đúng nghĩa, Vietnam Open DX-Hub vận hành theo tinh thần chia sẻ tri thức mở, hoàn toàn không dập khuôn theo lối mòn của các tổ chức xã hội nghề nghiệp truyền thống (nơi thường nặng về hình thức và danh xưng). Sự gắn kết của DX-Hub được tạo ra bởi sự tương tác liên tục để giải quyết các bài toán vận hành có thật dựa trên một nền tảng thực hành chung là hệ điều hành DX-OS.
+
+Vietnam Open DX-Hub là nơi hiện thực hóa Mô hình liên kết 3 Nhà: Nhà nước - Nhà trường - Doanh nghiệp, theo tinh thần của Nghị quyết 57-NQ/TW về đột phá khoa học, công nghệ, đổi mới sáng tạo và chuyển đổi số.
 
 Thay vì để lý thuyết nằm yên trên giấy, DX-Hub đóng vai trò là trạm tiếp nhận các bài toán vận hành thật của Chính phủ, Doanh nghiệp (đặc biệt từ khối SME), kết hợp với năng lực thực hành của sinh viên và sự dẫn dắt của các chuyên gia. Mục tiêu tối thượng là biến tri thức chuyển đổi số thành các bộ công cụ No-code/Low-code mang tính thực chiến cao, chi phí thấp và có thể triển khai ngay lập tức.
 
@@ -24,15 +26,16 @@ Thay vì để lý thuyết nằm yên trên giấy, DX-Hub đóng vai trò là 
 
     👉 _Link Đóng góp Ý kiến & Template:_ [Google Form](https://forms.gle/6Ex1WWwteKYfjXtR8)
 
-#### 3. Quy hoạch Không gian Lưu trữ Tri thức
+#### 3. Quy hoạch Kho Chia sẻ Tri thức Mở
 
-Tất cả những tinh hoa tri thức, các ca thực tiễn hay những giải pháp kỹ thuật chất lượng từ 3 kênh liên lạc trên sẽ được Ban biên tập tinh lọc, phân loại và lưu trữ vĩnh viễn vào Kho Chia sẻ Tri thức kèm theo giáo trình này:
+Bản chất sức mạnh của một Cộng đồng Thực hành (CoP) nằm ở khả năng lưu giữ và lan tỏa tri thức tập thể. Tất cả những tinh hoa tri thức, các ca thực tiễn hay những giải pháp kỹ thuật chất lượng từ 3 kênh liên lạc trên sẽ được Ban biên tập tinh lọc, phân loại và lưu trữ vĩnh viễn vào Kho Chia sẻ Tri thức kèm theo giáo trình này:
 
-* Trang "Tài nguyên Tham khảo": Đây là một thư viện mở, lưu trữ danh sách các đường dẫn (link) tham chiếu tới những tài nguyên hữu ích nhất do cộng đồng chia sẻ. Tại đây, người học có thể truy cập, tải về và tái sử dụng các tài nguyên như:
+* 📁 Trang "Tài nguyên Tham khảo" (Công cụ & Biểu mẫu): Đây là một thư viện mở, lưu trữ danh sách các đường dẫn (link) tham chiếu tới những tài nguyên "cứng" hữu ích nhất do cộng đồng chia sẻ. Tại đây, người học có thể truy cập, tải về và tái sử dụng:
   * Bản vẽ cấu trúc kiến trúc (EA).
   * Sơ đồ luồng công việc (Flowchart) đã chuẩn hóa.
   * Các file Template Google Sheet, AppSheet, Looker Studio (DX-Marketplace).
   * Các tài liệu, công cụ hỗ trợ X-Tech phân loại theo từng nhóm ngành.
-* Trang "Hỏi đáp Chuyên sâu (FAQ)": Một không gian riêng biệt tổng hợp toàn bộ các ca (case) xử lý lỗi, vướng mắc nghiệp vụ phổ biến nhất được gửi về từ kênh Email và đúc kết từ Facebook Group. Trang FAQ giúp người học đi sau nhanh chóng tra cứu giải pháp mà không cần tốn thời gian "phát minh lại chiếc bánh xe".
+* 💡 Trang "Kinh nghiệm Thực chiến (Best Practices)": Nếu tài nguyên là công cụ, thì đây là cách sử dụng công cụ đó sao cho sắc bén nhất. Trang này đúc kết những bài học kinh nghiệm sâu sắc, các case-study (thành công lẫn thất bại) khi ứng dụng DX-OS vào thực tế doanh nghiệp. Nó giúp các nhà quản trị SME và chuyên gia đi sau tránh được những "vết xe đổ" và áp dụng ngay những phương pháp luận đã được cộng đồng chứng minh hiệu quả.
+* 🛠️ Trang "Hỏi đáp Chuyên sâu (FAQ)": Một không gian riêng biệt tổng hợp toàn bộ các ca xử lý lỗi (troubleshooting), vướng mắc nghiệp vụ phổ biến nhất được gửi về từ kênh Email và đúc kết từ Facebook Group. Trang FAQ giúp người học đi sau nhanh chóng tra cứu giải pháp mà không cần tốn thời gian "phát minh lại chiếc bánh xe".
 
-🔄 Thông điệp: Giáo trình này chỉ là điểm khởi đầu. Lần tới khi bạn truy cập vào các trang "Tài nguyên Tham khảo" hay "FAQ", chắc chắn sẽ có thêm những công cụ và tri thức mới được cập nhật. Hãy mạnh dạn thực hành, chia sẻ lên Facebook Group và đừng quên để lại dấu ấn của bạn vào sự phát triển chung của cộng đồng!
+> 🔄 Thông điệp: Giáo trình này chỉ là điểm khởi đầu. Lần tới khi bạn truy cập vào các trang "Tài nguyên Tham khảo", "Kinh nghiệm Thực chiến" hay "FAQ", chắc chắn sẽ có thêm những công cụ và tri thức mới được cập nhật. Hãy mạnh dạn thực hành, chia sẻ lên Facebook Group và đừng quên để lại dấu ấn của bạn vào sự phát triển chung của cộng đồng!

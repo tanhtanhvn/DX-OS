@@ -1,11 +1,12 @@
 # Table of contents
 
-* [GIỚI THIỆU](README.md)
+* [TỔNG QUAN](README.md)
 * [LỜI MỞ ĐẦU](loi-mo-dau.md)
 * [VỀ TÀI LIỆU](ve-tai-lieu.md)
 * [HỘP CÁT DX-LAB](hop-cat-dx-lab.md)
 * [CHIA SẺ TRI THỨC MỞ](chia-se-tri-thuc-mo/README.md)
   * [Tài nguyên Tham khảo](chia-se-tri-thuc-mo/tai-nguyen-tham-khao.md)
+  * [Kinh nghiệm Thực chiến](chia-se-tri-thuc-mo/kinh-nghiem-thuc-chien.md)
   * [Câu hỏi Chuyên sâu (FAQ)](chia-se-tri-thuc-mo/cau-hoi-chuyen-sau-faq.md)
 
 ## PHẦN I - TƯ DUY CHIẾN LƯỢC
