@@ -2,7 +2,7 @@
 
 ### 🌐  Vietnam Open DX-Hub - Cộng đồng Chuyển đổi số Doanh nghiệp và Chính phủ Việt Nam&#x20;
 
-> Thông điệp cốt lõi: _Giáo trình DX-OS cung cấp "Hệ điều hành lõi". Vietnam Open DX-Hub là hệ sinh thái để cộng đồng Doanh nghiệp và Chính phủ Việt Nam cùng nhau vận hành, chia sẻ thực tiễn và không ngừng làm giàu hệ điều hành đó._
+> Thông điệp cốt lõi: _Tài liệu DX-OS cung cấp "Hệ điều hành lõi". Vietnam Open DX-Hub là hệ sinh thái để cộng đồng Doanh nghiệp và Chính phủ Việt Nam cùng nhau vận hành, chia sẻ thực tiễn và không ngừng làm giàu hệ điều hành đó._
 
 #### 1. Hệ sinh thái Tri thức mở định hình theo Cộng đồng Thực hành
 
@@ -38,4 +38,4 @@ Bản chất sức mạnh của một Cộng đồng Thực hành (CoP) nằm �
 * 💡 Trang "Kinh nghiệm Thực chiến (Best Practices)": Nếu tài nguyên là công cụ, thì đây là cách sử dụng công cụ đó sao cho sắc bén nhất. Trang này đúc kết những bài học kinh nghiệm sâu sắc, các case-study (thành công lẫn thất bại) khi ứng dụng DX-OS vào thực tế doanh nghiệp. Nó giúp các nhà quản trị SME và chuyên gia đi sau tránh được những "vết xe đổ" và áp dụng ngay những phương pháp luận đã được cộng đồng chứng minh hiệu quả.
 * 🛠️ Trang "Hỏi đáp Chuyên sâu (FAQ)": Một không gian riêng biệt tổng hợp toàn bộ các ca xử lý lỗi (troubleshooting), vướng mắc nghiệp vụ phổ biến nhất được gửi về từ kênh Email và đúc kết từ Facebook Group. Trang FAQ giúp người học đi sau nhanh chóng tra cứu giải pháp mà không cần tốn thời gian "phát minh lại chiếc bánh xe".
 
-> 🔄 Thông điệp: Giáo trình này chỉ là điểm khởi đầu. Lần tới khi bạn truy cập vào các trang "Tài nguyên Tham khảo", "Kinh nghiệm Thực chiến" hay "FAQ", chắc chắn sẽ có thêm những công cụ và tri thức mới được cập nhật. Hãy mạnh dạn thực hành, chia sẻ lên Facebook Group và đừng quên để lại dấu ấn của bạn vào sự phát triển chung của cộng đồng!
+> 🔄 Thông điệp: Cuốn sách này chỉ là điểm khởi đầu. Lần tới khi bạn truy cập vào các trang "Tài nguyên Tham khảo", "Kinh nghiệm Thực chiến" hay "FAQ", chắc chắn sẽ có thêm những công cụ và tri thức mới được cập nhật. Hãy mạnh dạn thực hành, chia sẻ lên Facebook Group và đừng quên để lại dấu ấn của bạn vào sự phát triển chung của cộng đồng!

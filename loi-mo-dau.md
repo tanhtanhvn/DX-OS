@@ -8,7 +8,7 @@ Tuy nhiên, một thực tế đầy thách thức đang hiện hữu: Phần l�
 
 Độ trưởng thành số của một tổ chức số không tỷ lệ thuận với ngân sách chi cho IT. Việc ném hàng tỷ đồng để mua một hệ thống quản trị doanh nghiệp (ERP) khổng lồ không thể che giấu được sự yếu kém trong kỷ luật vận hành.
 
-Giáo trình **"XÂY DỰNG HỆ ĐIỀU HÀNH DOANH NGHIỆP SỐ: Từ Tư duy đến Hành động"** ra đời với sứ mệnh đập tan lối mòn đó. Chúng tôi không cung cấp một danh sách các phần mềm rời rạc. Chúng tôi cung cấp một Kiến trúc Doanh nghiệp tinh gọn, đồng bộ hóa tuyệt đối thế chân kiềng: Quản trị - Công nghệ - Con người.
+Cuốn sách **"XÂY DỰNG HỆ ĐIỀU HÀNH DOANH NGHIỆP SỐ: Từ Tư duy đến Hành động"** ra đời với sứ mệnh đập tan lối mòn đó. Chúng tôi không cung cấp một danh sách các phần mềm rời rạc. Chúng tôi cung cấp một Kiến trúc Doanh nghiệp tinh gọn, đồng bộ hóa tuyệt đối thế chân kiềng: Quản trị - Công nghệ - Con người.
 
 #### **Triết lý cốt lõi: Chuỗi tiến hóa năng lực điều khiển HPDI**
 
@@ -46,7 +46,7 @@ _Phần 3: Vận hành DX-OS - Quản trị sự thay đổi, Bảo mật và T�
 
 Chuyển đổi số, trước hết và quan trọng nhất, là một cuộc cải cách toàn diện về cấu trúc tổ chức, tư duy lãnh đạo và văn hóa kỷ luật. Nếu công nghệ là phần xác, quy trình là hệ thần kinh, thì văn hóa số chính là phần hồn quyết định sự sống còn.
 
-Với phương châm "Tư duy diện rộng - Hành động mũi nhọn", Giáo trình này cam kết mang lại một lộ trình thực thi – giúp doanh nghiệp đập tan sự trì trệ và nhìn thấy giá trị sinh lời ngay từ những bước đi đầu tiên.
+Với phương châm "Tư duy diện rộng - Hành động mũi nhọn", tài liệu này cam kết mang lại một lộ trình thực thi – giúp doanh nghiệp đập tan sự trì trệ và nhìn thấy giá trị sinh lời ngay từ những bước đi đầu tiên.
 
 Hãy cùng chúng tôi kiến tạo một thế hệ doanh nghiệp không chỉ hiện đại về công cụ, mà còn sở hữu một hệ điều hành thông minh, con người tỉnh thức và quy trình chuẩn mực. Chào mừng bạn bước vào kỷ nguyên của Doanh nghiệp số thịnh vượng!
 

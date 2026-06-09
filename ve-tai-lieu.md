@@ -2,7 +2,7 @@
 
 #### Đóng góp của Tác giả
 
-Giáo trình "XÂY DỰNG HỆ ĐIỀU HÀNH DOANH NGHIỆP SỐ: Từ Tư duy đến Hành động" đánh dấu sự đóng góp toàn diện của tác giả trong việc đập tan "ảo tưởng công nghệ" – tư duy sai lầm cho rằng chuyển đổi số chỉ đơn thuần là việc chi tiền mua sắm các phần mềm đắt đỏ. Thay vào đó, tác giả đã kiến tạo một bản thiết kế Kiến trúc Doanh nghiệp (EA) tinh gọn, đồng bộ hóa tuyệt đối ba trụ cột: Quản trị - Công nghệ - Con người. Đóng góp nổi bật nhất là việc phát triển mô hình HPDI (_Human - Process - Data - Intelligence_). Mô hình này định nghĩa chuyển đổi số là một chuỗi tiến hóa quyền lực điều khiển: đi từ bản năng và kinh nghiệm của con người (H), bị cưỡng chế bởi quy luật và rào chắn kỹ thuật (P), minh bạch hóa thông qua dữ liệu sự thật (D), và vươn tới đỉnh cao là sự tự hành của Trí tuệ nhân tạo (I). Tác giả cũng sáng tạo ra thuật toán quy đổi và biểu đồ Radar HPDI để bóc trần thực trạng hệ thống, giúp lãnh đạo tự "bắt mạch" và đo lường tỷ trọng quyền lực thực tế mà máy móc đang nắm giữ.
+Sách tham khảo "XÂY DỰNG HỆ ĐIỀU HÀNH DOANH NGHIỆP SỐ: Từ Tư duy đến Hành động" đánh dấu sự đóng góp toàn diện của tác giả trong việc đập tan "ảo tưởng công nghệ" – tư duy sai lầm cho rằng chuyển đổi số chỉ đơn thuần là việc chi tiền mua sắm các phần mềm đắt đỏ. Thay vào đó, tác giả đã kiến tạo một bản thiết kế Kiến trúc Doanh nghiệp (EA) tinh gọn, đồng bộ hóa tuyệt đối ba trụ cột: Quản trị - Công nghệ - Con người. Đóng góp nổi bật nhất là việc phát triển mô hình HPDI (_Human - Process - Data - Intelligence_). Mô hình này định nghĩa chuyển đổi số là một chuỗi tiến hóa quyền lực điều khiển: đi từ bản năng và kinh nghiệm của con người (H), bị cưỡng chế bởi quy luật và rào chắn kỹ thuật (P), minh bạch hóa thông qua dữ liệu sự thật (D), và vươn tới đỉnh cao là sự tự hành của Trí tuệ nhân tạo (I). Tác giả cũng sáng tạo ra thuật toán quy đổi và biểu đồ Radar HPDI để bóc trần thực trạng hệ thống, giúp lãnh đạo tự "bắt mạch" và đo lường tỷ trọng quyền lực thực tế mà máy móc đang nắm giữ.
 
 Song song với nền tảng lý thuyết, tác giả đã vạch ra một lộ trình chuyển đổi số được "may đo" riêng cho bối cảnh của các doanh nghiệp SME tại Việt Nam. Nhận diện rõ các căn bệnh mãn tính như "Zalo hóa" luồng giao tiếp, ốc đảo thông tin và nguyên lý rác đầu vào (GIGO) , tác giả đề xuất chiến lược "Nghĩ lớn, Bắt đầu nhỏ, và Mở rộng thần tốc". Lộ trình này ưu tiên việc "rèn quân 0 đồng" thông qua kỷ luật lưu trữ P.A.R.A và chuẩn hóa quy trình lõi trên các nền tảng đám mây phổ dụng trước khi doanh nghiệp quyết định giải ngân cho các hệ thống ERP hay SaaS đắt đỏ. Khi tổ chức đạt đến điểm tới hạn, tác giả cung cấp bản đồ quy hoạch công nghệ phân lớp tích hợp (Hybrid), giúp doanh nghiệp tiến hóa thành các thực thể công nghệ chuyên ngành (X-Tech) mà không làm đứt gãy luồng dữ liệu.
 
@@ -10,7 +10,7 @@ Song song với nền tảng lý thuyết, tác giả đã vạch ra một lộ 
 
 #### Đóng góp của Gemini AI
 
-Trong suốt chu trình hoàn thiện giáo trình, Gemini AI đóng vai trò như một thực thể thiết kế kỹ thuật và đối tác đồng hành toàn diện, giúp tác giả chuyển hóa các lý thuyết quản trị thành hệ thống giải pháp công nghệ thực chiến thông qua các đóng góp lớn sau:
+Trong suốt chu trình hoàn thiện tài liệu, Gemini AI đóng vai trò như một thực thể thiết kế kỹ thuật và đối tác đồng hành toàn diện, giúp tác giả chuyển hóa các lý thuyết quản trị thành hệ thống giải pháp công nghệ thực chiến thông qua các đóng góp lớn sau:
 
 1. Định hình và Cấu trúc Khung nội dung: Hỗ trợ thiết lập bộ khung logic mạch lạc cho giáo trình theo tiến trình tiến hóa của mô hình HPDI (_Human - Process - Data - Intelligence_), đảm bảo sự liên thông chặt chẽ giữa tư duy chiến lược và thực thi kỹ thuật.
 2. Biên tập Chuyên sâu và Chuẩn hóa Đặc tả Kỹ thuật: Thực thi quy chuẩn ngôn ngữ hệ thống nhất quán, biến các mô tả nghiệp vụ rời rạc thành các trường thông tin, biến số và hằng số chuẩn công nghiệp, đồng thời kiểm soát tính đồng bộ của dữ liệu xuyên suốt các chương.
@@ -34,7 +34,7 @@ Từ năm 2016 đến nay, TS. Tuấn Anh là đồng sáng lập Công ty Cổ 
 
 #### Công bố tài nguyên mở
 
-Toàn bộ tài nguyên được cung cấp theo giáo trình "XÂY DỰNG HỆ ĐIỀU HÀNH DOANH NGHIỆP SỐ: Từ Tư duy đến Hành động" được công bố theo giấy phép Creative Commons Ghi công 4.0 Quốc tế (CC BY 4.0).
+Toàn bộ tài nguyên được cung cấp theo tài liệu "XÂY DỰNG HỆ ĐIỀU HÀNH DOANH NGHIỆP SỐ: Từ Tư duy đến Hành động" được công bố theo giấy phép Creative Commons Ghi công 4.0 Quốc tế (CC BY 4.0).
 
 Bạn được tự do:
 
