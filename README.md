@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
-Sách tham khảo "**Xây dựng Hệ điều hành Doanh nghiệp số: Từ Tư duy đến Hành động (DX-OS in Action)**" là một bản thiết kế kiến trúc doanh nghiệp tinh gọn, khẳng định chuyển đổi số là cuộc đại cải cách về cấu trúc và văn hóa chứ không đơn thuần là việc chi tiền mua sắm phần mềm. Xương sống của giáo trình là mô hình tiến hóa quyền lực điều khiển HPDI, giúp tổ chức dịch chuyển từ việc phụ thuộc vào bản năng con người (Human), sang tuân thủ rào chắn quy trình (Process), điều hành bằng sự thật dữ liệu (Data) và vươn tới sự tự hành của Trí tuệ nhân tạo (Intelligence). Tài liệu được thiết kế phù hợp với đặc thù của các doanh nghiệp vừa và nhỏ (SME) trên môi trường thực chiến DX-Lab, tận dụng hệ sinh thái đám mây phổ dụng để rèn thói quen kỷ luật số trước khi đầu tư lớn.
+Sách tham khảo "**Xây dựng Hệ điều hành Doanh nghiệp số: Từ Tư duy đến Hành động (DX-OS in Action)**" là một bản thiết kế kiến trúc doanh nghiệp tinh gọn, khẳng định chuyển đổi số là cuộc đại cải cách về cấu trúc và văn hóa chứ không đơn thuần là việc chi tiền mua sắm phần mềm. Xương sống của tài liệu là mô hình tiến hóa quyền lực điều khiển HPDI, giúp tổ chức dịch chuyển từ việc phụ thuộc vào bản năng con người (Human), sang tuân thủ rào chắn quy trình (Process), điều hành bằng sự thật dữ liệu (Data) và vươn tới sự tự hành của Trí tuệ nhân tạo (Intelligence). Tài liệu được thiết kế phù hợp với đặc thù của các doanh nghiệp vừa và nhỏ (SME) trên môi trường thực chiến DX-Lab, tận dụng hệ sinh thái đám mây phổ dụng để rèn thói quen kỷ luật số trước khi đầu tư lớn.
 
 Tài liệu bao gồm 3 phần khép kín:
 
